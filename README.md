@@ -1,8 +1,8 @@
 # Hey, I'm Ritvik 👋
 
-Computer Engineering @ Georgia Tech ('28), mostly nerding out about computer architecture and RTL design.
+Computer Engineering @ Georgia Tech ('28), strongly interested about computer architecture and RTL design.
 
-I like building processors and figuring out how hardware actually works — from register-transfer logic all the way up to full out-of-order microarchitecture. Right now I'm a V&V Engineering Intern at KPIT doing automotive hardware-in-the-loop testing.
+I like building processors and figuring out how hardware actually works!
 
 ### What I'm into 🔧
 
