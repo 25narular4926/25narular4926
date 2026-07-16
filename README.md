@@ -10,7 +10,7 @@ I like building processors and figuring out how hardware actually works!
 - Computer architecture — branch prediction, register renaming, memory ordering
 - HIL / bench verification and test automation
 
-### Stuff I've built
+### Stuff I've built and Helping With
 
 - **[Out-Of-Order-Processor-RISC-V](https://github.com/25narular4926/Out-Of-Order-Processor-RISC-V)** — A from-scratch out-of-order RV32IM core in Chisel, BOOM-style: register renaming, a unified physical register file, reorder buffer, age-matrix issue queue, an LSU with store-to-load forwarding, and gshare + BTB + RAS branch prediction. Sim'd with ChiselSim + ScalaTest, CI runs Verilator. 🚀
 - **[HLSFactory](https://github.com/25narular4926/HLSFactory)** — Helping out on Georgia Tech Sharc Lab's open framework for ML-driven high-level synthesis datasets.
